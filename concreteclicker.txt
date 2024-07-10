@@ -5,3 +5,8 @@ Let's make a game!
     created:10/7/2024
     updated:10/7/2024
     version:0
+
+Settings
+    background:images/concrete_background.jpg
+    building cost increase:115%
+    building cost refund:50%

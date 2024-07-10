@@ -7,6 +7,6 @@ Let's make a game!
     version:0
 
 Settings
-    background:https://as2.ftcdn.net/v2/jpg/02/96/64/79/1000_F_296647961_gQgJcgiqnEiybhUvXF52FsMP9etrrL3N.jpg
+    background:https://orteil.dashnet.org/igm/?g=https://zclipsecode.github.io/Concrete-Clicker/images/concrete_background.jpg
     building cost increase:115%
     building cost refund:50%

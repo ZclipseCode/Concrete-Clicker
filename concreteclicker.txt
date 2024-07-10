@@ -7,6 +7,6 @@ Let's make a game!
     version:0
 
 Settings
-    background:https://orteil.dashnet.org/igm/?g=https://zclipsecode.github.io/Concrete-Clicker/images/concrete_background.jpg
+    background:https://zclipsecode.github.io/Concrete-Clicker/images/concrete_background.jpg
     building cost increase:115%
     building cost refund:50%

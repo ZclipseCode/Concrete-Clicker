@@ -1,0 +1,7 @@
+Let's make a game!
+    name:Concrete Clicker
+    by:Zclipse
+    desc:Idle game about the wonders of concrete.
+    created:10/7/2024
+    updated:10/7/2024
+    version:0

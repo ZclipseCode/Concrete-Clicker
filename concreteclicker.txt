@@ -10,3 +10,6 @@ Settings
     background:https://zclipsecode.github.io/Concrete-Clicker/images/concrete_background.jpg
     building cost increase:115%
     building cost refund:50%
+
+Layout
+    use default

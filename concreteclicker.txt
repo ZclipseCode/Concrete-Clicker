@@ -7,6 +7,6 @@ Let's make a game!
     version:0
 
 Settings
-    background:https://t3.ftcdn.net/jpg/01/79/71/02/240_F_179710260_yGn8CQ8VJ0DLGK6nWJ7b1CF6jvwAuesj.jpg
+    background:https://images.wallpaperscraft.com/image/single/concrete_scuffs_texture_146032_1920x1080.jpg
     building cost increase:115%
     building cost refund:50%
